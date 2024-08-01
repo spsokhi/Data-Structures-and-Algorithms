@@ -1,0 +1,3 @@
+[submodule "CodingQuestions"]
+	path = CodingQuestions
+	url = https://github.com/spsokhi/CodingQuestions.git
