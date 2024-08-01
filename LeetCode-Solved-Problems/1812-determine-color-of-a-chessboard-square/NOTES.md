@@ -1,0 +1,1 @@
+I don't really understand why a1 is not a white square!
