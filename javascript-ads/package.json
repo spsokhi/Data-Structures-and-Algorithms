@@ -1,0 +1,25 @@
+{
+    "name": "javascript-ads",
+    "version": "1.0.0",
+    "description": "A collection of various algorithms implemented using the javascript programming language",
+    "main": "index.js",
+    "scripts": {
+        "test-bubblesort": "jest ./algorithms/sorting/bubbleSort/test.js --watch",
+        "test-insertionsort": "jest ./algorithms/sorting/insertionSort/test.js --watch",
+        "test-selectionsort": "jest ./algorithms/sorting/selectionSort/test.js --watch",
+        "test-shellsort": "jest ./algorithms/sorting/shellSort/test.js --watch",
+        "test-mergesort": "jest ./algorithms/sorting/mergeSort/test.js --watch",
+        "test-quicksort": "jest ./algorithms/sorting/quickSort/test.js --watch",
+        "test-singly-linked-list": "jest ./data-structures/singly-linked-list/test.js",
+        "test-singly-linked-list:watch": "jest ./data-structures/singly-linked-list/test.js --watch",
+        "test-doubly-linked-list": "jest ./data-structures/doubly-linked-list/test.js",
+        "test-doubly-linked-list:watch": "jest ./data-structures/doubly-linked-list/test.js --watch",
+        "test": "jest"
+    },
+    "keywords": [],
+    "author": "Douglas Minnaar",
+    "license": "MIT",
+    "dependencies": {
+        "jest": "^26.6.3"
+    }
+}
