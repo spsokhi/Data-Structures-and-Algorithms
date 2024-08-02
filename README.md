@@ -17,7 +17,13 @@ This repository contains implementations of various data structures and algorith
 
 - **DSA-in-Py**:
   - Implementations of common data structures and algorithms in Python.
-  
+    
+- **Csharp-ads**:
+  - Implementations of common data structures and algorithms in CS.
+  - 
+- **Javascript-ads**:
+  - Implementations of common data structures and algorithms in JS.
+    
 - **GEEKS-FOR-GEEKS-Solutions**:
   - Solutions to problems from Geeks for Geeks, organized by topic.
 
